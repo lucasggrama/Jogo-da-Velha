@@ -1,3 +1,4 @@
+//Teste
 let board = [[' ', ' ', ' '], [' ', ' ', ' '], [' ', ' ', ' ']];
 let PLAYER = 'X';
 let COMPUTER = 'O';
